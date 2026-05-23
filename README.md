@@ -30,14 +30,4 @@ A custom 2D rendering and animation project built from scratch using **C++**, **
 
 ---
 
-## 🚀 Getting Started
-1. **Prerequisites:** Ensure you have the `SDL3` development library installed on your system.
-2. **Compilation:** Use a modern C++ compiler (e.g., `g++` or `MSVC`) and link against the SDL3 library.
-3. **Execution:** Run the compiled binary to launch the window.
-    * Use the **mouse** to guide the shapes.
-    * Use **Arrow Keys** to manually control the rectangle.
-    * Press **ESC** to exit the application.
-
----
-
 © 2025 Graphics Engine | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
