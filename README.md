@@ -30,4 +30,5 @@ A custom 2D rendering and animation project built from scratch using **C++**, **
 
 ---
 
-© 2025 Graphics Engine | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
+© 2025 Glitter Geeks Coderun | Developed by [**𝐅𝐥𝐨𝐫𝐞𝐚𝐧 𝐄𝐦𝐢𝐥𝐢𝐚-𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐚**](https://github.com/Emily-f2510), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/), [**𝐋𝐮𝐩𝐚𝐧𝐜𝐮 𝐆𝐚𝐛𝐫𝐢𝐞𝐥𝐚-𝐕𝐚𝐥𝐞𝐧𝐭𝐢𝐧𝐚**](https://github.com/gabrielalupancu)
+
