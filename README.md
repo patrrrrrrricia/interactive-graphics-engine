@@ -33,7 +33,7 @@ Visual Documentation
 
 | Custom Rasterization (Circle & Rectangle) |
 | :---: |
-| <img width="787" height="593" alt="image" src="https://github.com/user-attachments/assets/0ce46ea5-0cb2-4aef-ad7c-1ad59e8356af" /> |
+| <img width="600" alt="image" src="https://github.com/user-attachments/assets/0ce46ea5-0cb2-4aef-ad7c-1ad59e8356af" /> |
 
 ---
 
